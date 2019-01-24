@@ -30,7 +30,7 @@ class Program
    {
     static void Main(String[] args)
         {
-            var customer = new customer();
+        var customer = new customer();
             customer.
             //var dog_and_cat = new car();
             // var bowling = new car();
