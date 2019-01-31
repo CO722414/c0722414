@@ -12,15 +12,16 @@ namespace c0722414
         public String name { get; set; }
         public void Promote() { }
 
-    var rating= CalculateRating();
-    }
+    var rating= CalculateRating ();
+    } 
     public int CalculateRating();
     if (rating==0)
         {
         Console.WriteLine("Promoted to Level 1");
 
 }
-else{Console.WriteLine("Promoted to Level 2);}
+else{Console.WriteLine("Promoted to Level 2");
+    }
     }
     public int CalculateRating()
 {
@@ -61,8 +62,6 @@ class Program
      //       Vehicle.howmanycars++;
         
      //   Console.WriteLine("my color is " + color);
-        }
-        
-        
+       
     
 
