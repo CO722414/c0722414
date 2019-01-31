@@ -24,6 +24,7 @@ namespace ConsoleApp1
         public Village nextVillage;
         public Village previousVillage;
         public string VillageName;
+
         public bool isAstrildeHere = false;
 
         public Village()
